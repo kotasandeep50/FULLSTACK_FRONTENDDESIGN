@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+**Demo credentials:**
+
+- Admin user: `admin` / `admin123`
+- Student user: `student` / `student123`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
